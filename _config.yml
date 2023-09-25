@@ -1,8 +1,8 @@
 remote_theme: pages-themes/cayman@v0.2.0
 title: Advancing Technology in the Star City
 description: >
-  Noke Codes is a civic-minded technology organization aimed at building a stronger
-  communityhere in the Roanoke Valley through technology. We want to celebrate the 
+  Noke Codes is a civic-minded organization aimed at building a stronger
+  community here in the Roanoke Valley through technology. We want to celebrate the 
   technical capacity of our community while also striving to make it even better.
 plugins:
 - jekyll-remote-theme
