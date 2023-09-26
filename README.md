@@ -1,5 +1,3 @@
-# Noke Codes
-
 ## Advancing Technology in the Star City
 
-This line was added on the dev branch and merged
+This is the brand new spanking Noke Codes site using the Jekyll minima theme
