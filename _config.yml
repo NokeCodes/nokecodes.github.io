@@ -1,9 +1,16 @@
-# remote_theme: pages-themes/cayman@v0.2.0
+# remote_theme: pages-themes/cayman@v0.2.0 --deprecated
 theme: minima
-title: Advancing Technology in the Star City
+title: Noke Codes
+email: darrell@nokecodes.org
+# url: "https://"
+github_username: darrell24015
+header_pages:
+  - about.markdown
+  - project.markdown
 description: >
   Noke Codes is a civic-minded organization aimed at building a stronger
   community here in the Roanoke Valley through technology. We want to celebrate the 
   technical capacity of our community while also striving to make it even better.
-# plugins:
+
+# plugins:  --deprecated
 # - jekyll-remote-theme
