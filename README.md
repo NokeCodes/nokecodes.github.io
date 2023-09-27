@@ -1,4 +1,4 @@
-![Noke Codes Logo](images/nokecodesfinal_200_cropped.png)
+![Noke Codes Logo](images/nokecodesfinaltransparent-3.png)
 
-This is the brand new spanking Noke Codes site using the Jekyll minima theme
+This is the brand spanking new Noke Codes site using the Jekyll minima theme. Yippee!
 
