@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is a new About page
+This is a new About Noke Codes page
